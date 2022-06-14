@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./public/banner.png" alt="wikeebia banner" width=400 />
+  <img src="./public/banner.svg" alt="wikeebia banner" width=400 />
 </p>
 
 ## Description
